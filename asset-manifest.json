@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MazePathSolver/static/css/main.30b182d8.chunk.css",
+    "main.js": "/MazePathSolver/static/js/main.a8ad7604.chunk.js",
+    "main.js.map": "/MazePathSolver/static/js/main.a8ad7604.chunk.js.map",
+    "runtime-main.js": "/MazePathSolver/static/js/runtime-main.4066e67a.js",
+    "runtime-main.js.map": "/MazePathSolver/static/js/runtime-main.4066e67a.js.map",
+    "static/js/2.8d8bbdac.chunk.js": "/MazePathSolver/static/js/2.8d8bbdac.chunk.js",
+    "static/js/2.8d8bbdac.chunk.js.map": "/MazePathSolver/static/js/2.8d8bbdac.chunk.js.map",
+    "index.html": "/MazePathSolver/index.html",
+    "precache-manifest.54c836de6141f167f5f2401e450cb5b9.js": "/MazePathSolver/precache-manifest.54c836de6141f167f5f2401e450cb5b9.js",
+    "service-worker.js": "/MazePathSolver/service-worker.js",
+    "static/css/main.30b182d8.chunk.css.map": "/MazePathSolver/static/css/main.30b182d8.chunk.css.map",
+    "static/js/2.8d8bbdac.chunk.js.LICENSE.txt": "/MazePathSolver/static/js/2.8d8bbdac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4066e67a.js",
+    "static/js/2.8d8bbdac.chunk.js",
+    "static/css/main.30b182d8.chunk.css",
+    "static/js/main.a8ad7604.chunk.js"
+  ]
+}
